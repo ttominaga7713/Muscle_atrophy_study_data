@@ -1,0 +1,6 @@
+gene,filename,label
+up.csv,Upregulated cDEmRNAs of ERP131935 (Sepsis),(L)
+down.csv,Downregulated cDEmRNAs of ERP131935 (Sepsis),(M)
+uplncrna.csv,Upregulated cDElncRNAs of ERP131935 (Sepsis),(N)
+downlncrna.csv,Downregulated cDElncRNAs of ERP131935 (Sepsis),(O)
+atrogenes.csv,Atrogenes of ERP131935 (Sepsis),(K)

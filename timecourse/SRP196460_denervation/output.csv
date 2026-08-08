@@ -1,0 +1,6 @@
+gene,filename,label
+up.csv,Upregulated cDEmRNAs of SRP196460 (Denervation),(G)
+down.csv,Downregulated cDEmRNAs of SRP196460 (Denervation),(H)
+uplncrna.csv,Upregulated cDElncRNAs of SRP196460 (Denervation),(I)
+downlncrna.csv,Downregulated cDElncRNAs of SRP196460 (Denervation),(J)
+atrogenes.csv,Atrogenes of SRP196460 (Denervation),(F)

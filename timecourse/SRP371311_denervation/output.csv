@@ -1,0 +1,6 @@
+gene,filename,label
+up.csv,Upregulated cDEmRNAs of SRP371311 (Denervation),(G)
+down.csv,Downregulated cDEmRNAs of SRP371311 (Denervation),(H)
+uplncrna.csv,Upregulated cDElncRNAs of SRP371311 (Denervation),(I)
+downlncrna.csv,Downregulated cDElncRNAs of SRP371311 (Denervation),(J)
+atrogenes.csv,Atrogenes of SRP371311 (Denervation),(F)

@@ -1,0 +1,8 @@
+filename,timepoint
+d0_CTL-0_vs_DN-0_edgeR_results.tsv,0
+d1_CTL-1_vs_DN-1_edgeR_results.tsv,1
+d3_CTL-3_vs_DN-3_edgeR_results.tsv,3
+d7_CTL-7_vs_DN-7_edgeR_results.tsv,7
+SRP196460_Control_vs_Denervation_edgeR_results.tsv,14
+d30_CTL-30_vs_DN-30_edgeR_results.tsv,30
+d90_CTL-90_vs_DN-90_edgeR_results.tsv,90

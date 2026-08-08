@@ -1,0 +1,6 @@
+gene,filename,label
+up.csv,Upregulated cDEmRNAs of SRP454976 (Disuse),(L)
+down.csv,Downregulated cDEmRNAs of SRP454976 (Disuse),(M)
+uplncrna.csv,Upregulated cDElncRNAs of SRP454976 (Disuse),(N)
+downlncrna.csv,Downregulated cDElncRNAs of SRP454976 (Disuse),(O)
+atrogenes.csv,Atrogenes of SRP454976 (Disuse),(K)

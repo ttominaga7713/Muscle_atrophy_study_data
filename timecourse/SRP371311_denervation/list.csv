@@ -1,0 +1,9 @@
+filename,timepoint
+1,0
+SRP371311_D0_vs_D1_edgeR_results.tsv,1
+SRP371311_D0_vs_D3_edgeR_results.tsv,3
+SRP371311_D0_vs_D5_edgeR_results.tsv,5
+SRP371311_D0_vs_D7_edgeR_results.tsv,7
+SRP371311_D0_vs_D14_edgeR_results.tsv,14
+SRP371311_D0_vs_D21_edgeR_results.tsv,21
+SRP371311_D0_vs_D28_edgeR_results.tsv,28

@@ -1,0 +1,6 @@
+gene,filename,label
+up.csv,Upregulated cDEmRNAs of SRP337393 (Cachexia),(B)
+down.csv,Downregulated cDEmRNAs of SRP337393 (Cachexia),(C)
+uplncrna.csv,Upregulated cDElncRNAs of SRP337393 (Cachexia),(D)
+downlncrna.csv,Downregulated cDElncRNAs of SRP337393 (Cachexia),(E)
+atrogenes.csv,Atrogenes of SRP337393 (Cachexia),(A)
